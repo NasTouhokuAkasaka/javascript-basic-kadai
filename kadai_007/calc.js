@@ -13,3 +13,7 @@ else if (num % 3 === 0){
 else if (num % 5 === 0){
   console.log('5の倍数');
 }
+
+else {
+  console.log(num)
+}
